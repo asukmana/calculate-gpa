@@ -1,0 +1,15 @@
+E:\Users\Arief\Coding\c sharp\calculate-gpa\bin\Debug\net9.0\calculate-gpa.exe
+E:\Users\Arief\Coding\c sharp\calculate-gpa\bin\Debug\net9.0\calculate-gpa.deps.json
+E:\Users\Arief\Coding\c sharp\calculate-gpa\bin\Debug\net9.0\calculate-gpa.runtimeconfig.json
+E:\Users\Arief\Coding\c sharp\calculate-gpa\bin\Debug\net9.0\calculate-gpa.dll
+E:\Users\Arief\Coding\c sharp\calculate-gpa\bin\Debug\net9.0\calculate-gpa.pdb
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.AssemblyInfoInputs.cache
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.AssemblyInfo.cs
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.csproj.CoreCompileInputs.cache
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.sourcelink.json
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.dll
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\refint\calculate-gpa.dll
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.pdb
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\calculate-gpa.genruntimeconfig.cache
+E:\Users\Arief\Coding\c sharp\calculate-gpa\obj\Debug\net9.0\ref\calculate-gpa.dll
